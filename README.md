@@ -27,6 +27,4 @@
    node index.js
    ```
 
-   Make sure to replace `your-username` and `your-repo` with your actual GitHub username and repository name.
-
 #
